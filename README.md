@@ -11,11 +11,11 @@ Open the terminal on MacOS/Linux; Open Git Bash on Windows. Then execute the fol
 
 Method 1: Install via GitHub script
 ```shell
-bash <(curl -Lk https://github.com/kingparks/jetbra-activate/releases/download/latest/i.sh) githubReadme
+bash <(curl -Lk https://github.com/kingparks/jetbra-activate/releases/download/latest/i.sh) 60baef43c085460890f68bb33749eaac
 ```
 Method 2: Install via Gitee script
 ```shell
-bash <(curl -Lk https://gitee.com/kingparks/jetbra-activate/releases/download/latest/ic.sh) githubReadme
+bash <(curl -Lk https://gitee.com/kingparks/jetbra-activate/releases/download/latest/ic.sh) 60baef43c085460890f68bb33749eaac
 ```
 Method 3: Manually download the binary file
 > Download the binary file for the corresponding operating system from the [release](https://github.com/kingparks/jetbra-activate/releases) page
